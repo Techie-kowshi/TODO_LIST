@@ -9,7 +9,7 @@ OR
  ```bash
    npm install
 AND
-Start the development servers by running:
+   Start the development servers by running:
    npm start
 
 
